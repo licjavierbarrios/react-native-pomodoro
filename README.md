@@ -11,6 +11,9 @@ La técnica Pomodoro es un método de gestión del tiempo desarrollado por Franc
 - Temporizador Pomodoro ajustable
 - Contador de ciclos completados
 
+## Captura de Pantalla
+[![Sin-t-tulo.png](https://i.postimg.cc/43wCXdGP/Sin-t-tulo.png)](https://postimg.cc/NyyC4Q52)
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
